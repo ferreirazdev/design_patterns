@@ -1,7 +1,7 @@
 package main
 
-import "fmt"
+import "github.com/flavioferreiraz/design_patterns/creational/builder"
 
 func main() {
-	fmt.Println("salve")
+	builder.MainBuilder()
 }
